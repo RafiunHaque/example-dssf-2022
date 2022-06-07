@@ -39,3 +39,6 @@ Karina Gonzalez - EaST Assistant
 [Resources](/resources)
 
 [Syllabus](syllabus.md)
+
+[markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
