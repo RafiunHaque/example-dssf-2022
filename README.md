@@ -42,3 +42,8 @@ Karina Gonzalez - EaST Assistant
 
 [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+#More information goes here!
+
+- important thing
+- other thing
+
